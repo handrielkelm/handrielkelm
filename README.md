@@ -6,7 +6,7 @@
   <a href= "https://github.com/handrielkelm/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://https://www.linkedin.com/in/handrielkelm/">
+  <a href= "https://www.linkedin.com/in/handrielkelm/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href="https://stackoverflow.com/users/19417408/handriel-kelm">
