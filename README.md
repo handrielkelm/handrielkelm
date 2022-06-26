@@ -1,23 +1,25 @@
-### Hi there 👋
+<!-- Social Section -->
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
-![Busy](back.gif "Not now!").
+<p align="center">
+  <a href= "https://github.com/handrielkelm/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://https://www.linkedin.com/in/handrielkelm/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19417408/handriel-kelm">
+    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
+  </a>
 
+  
+</p>
 
+---
+  
 ![handrielkelm's GitHub stats](https://github-readme-stats.vercel.app/api?username=handrielkelm&theme=radical&show_icons=true)
 
+--- 
+
 [![handrielkelm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=handrielkelm&theme=radical)](https://github.com/handrielkelm)
-
-<!--
-**handrielkelm/handrielkelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
