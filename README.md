@@ -3,7 +3,7 @@
 ![Busy](back.gif "Not now!").
 
 
-![handrielkelm's GitHub stats](https://github-readme-stats.vercel.app/api?username=handrielkelm&theme=dark&show_icons=true)
+![handrielkelm's GitHub stats](https://github-readme-stats.vercel.app/api?username=handrielkelm&theme=radical&show_icons=true)
 
 [![handrielkelm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=handrielkelm&theme=radical)](https://github.com/handrielkelm)
 
