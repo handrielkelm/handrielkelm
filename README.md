@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Busy](back.gif "Not now!").
+
+
+![handrielkelm's GitHub stats](https://github-readme-stats.vercel.app/api?username=handrielkelm&theme=dark&show_icons=true)
+
+[![handrielkelm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=handrielkelm&theme=dark)](https://github.com/handrielkelm)
+
 <!--
 **handrielkelm/handrielkelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
